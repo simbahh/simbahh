@@ -27,6 +27,10 @@ Innovative and results-driven software developer with over **5 years of professi
 
 ## 🛠️ Tech Stack
 
+
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=3&theme=default&techs=JavaScript,TypeScript,Python,PHP,Java,Dart,Vue.js,Nuxt.js,React,Next.js,Flutter,Django,Laravel,MySQL,Firebase,Supabase,Docker,Kubernetes,Azure,Stripe,Strapi)
+
+
 ### Front-end
 - JavaScript / TypeScript  
 - Vue.js (Vue 2 & 3), Nuxt.js  
