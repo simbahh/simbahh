@@ -3,8 +3,6 @@
 **Senior Software Developer | Full-Stack Engineer | AI-Driven Solutions**
 
 📍 Northampton, United Kingdom  
-📧 tsgumunyu20@gmail.com  
-📞 +44 7909 463564  
 
 🔗 [GitHub](https://github.com/simbahh)  
 🔗 [LinkedIn](https://www.linkedin.com/feed/)  
