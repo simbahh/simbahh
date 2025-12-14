@@ -30,9 +30,7 @@ Innovative and results-driven software developer with over **5 years of professi
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=github_dark&lineCount=4&line1=..." />
-</p>
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?theme=github_dark&lineCount=4&line1=Django,django,auto%3BLaravel,laravel,auto%3BJava,java,auto%3BFirebase,firebase,auto%3BSupabase,supabase,auto&line2=JavaScript,javascript,auto%3BTypeScript,typescript,auto%3BVue.js,vuedotjs,auto%3BNuxt.js,nuxtdotjs,auto%3BReact,react,auto%3BNext.js,nextdotjs,auto&line3=Tailwind%20CSS,tailwindcss,auto%3BVite,vite,auto%3BWebpack,webpack,auto%3BFlutter,flutter,auto%3BStrapi,strapi,auto%3BStripe,stripe,auto&line4=Azure,microsoftazure,auto%3BDocker,docker,auto%3BKubernetes,kubernetes,auto%3BAWS,amazonaws,auto%3BGit,git,auto%3BGitHub,github,auto%3BJira,jira,auto)
 
 
 
