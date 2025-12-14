@@ -95,12 +95,6 @@ A diaspora-focused mobile app featuring radio streaming, games, airtime top-ups,
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=simbahh&theme=dark&hide_border=true)
-
----
-
 ## 🤝 Let’s Connect
 I am open to collaboration, consultancy, and innovative projects — particularly in **AI, social impact systems, and scalable SaaS platforms**.
 
