@@ -27,8 +27,6 @@ Innovative and results-driven software developer with over **5 years of professi
 
 ## 🛠️ Tech Stack
 
-## 🚀 Tech Stack
-
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -65,33 +63,6 @@ Innovative and results-driven software developer with over **5 years of professi
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-181717?style=for-the-badge&logo=anthropic&logoColor=D4A574)
 
-### Front-end
-- JavaScript / TypeScript  
-- Vue.js (Vue 2 & 3), Nuxt.js  
-- React.js, Next.js  
-- Tailwind CSS, Vite, Webpack  
-- Flutter (Mobile)
-
-### Back-end
-- Django (Python)  
-- Laravel (PHP)  
-- Java  
-- Firebase & Supabase  
-- REST APIs & Webhooks
-
-### Cloud & DevOps
-- Azure  
-- Docker & Kubernetes  
-- CI/CD Pipelines  
-
-### Platforms & Tools
-- Strapi Headless CMS  
-- Stripe Payments  
-- Microsoft Dynamics 365 & Power Platform  
-- Git & GitHub  
-- Jira  
-- Cursor AI & Claude Code  
-
 ---
 
 ## 📌 Featured Projects
@@ -125,6 +96,10 @@ A diaspora-focused mobile app featuring radio streaming, games, airtime top-ups,
 ---
 
 ## 📊 GitHub Stats
+
+![Trevor's Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=simbahh&limit=5&combine_all_yearly_contributions=true)
+
+![Trevor's Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=simbahh&limit=10&combine_all_yearly_contributions=true)
 
 ![Trevor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simbahh&show_icons=true&theme=tokyonight&hide_border=true)
 
