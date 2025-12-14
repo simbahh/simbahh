@@ -97,13 +97,11 @@ A diaspora-focused mobile app featuring radio streaming, games, airtime top-ups,
 
 ## 📊 GitHub Stats
 
-![Trevor's Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=simbahh&limit=5&combine_all_yearly_contributions=true)
+![Trevor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simbahh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark)
 
-![Trevor's Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=simbahh&limit=10&combine_all_yearly_contributions=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=simbahh&theme=github-dark&hide_border=true)
 
-![Trevor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simbahh&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simbahh&layout=compact&theme=tokyonight&hide_border=true)
+![Repository Contributions](https://github-contributor-stats.vercel.app/api?username=simbahh&limit=10&combine_all_yearly_contributions=true)
 
 ---
 
